@@ -42,5 +42,7 @@ Steps
 ![Choose Group](https://github.com/yikai-Liu/ids-final-demo/blob/master/waitingRoom.png)
 
 ### Game Assign Units
+![Choose Group](https://github.com/yikai-Liu/ids-final-demo/blob/master/AssignUnits.png)
 
 ### Game GamePlay
+![Choose Group](https://github.com/yikai-Liu/ids-final-demo/blob/master/GamePlay.png)
