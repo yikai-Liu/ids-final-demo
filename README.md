@@ -7,7 +7,7 @@ Please enjoy the advanture in HP magic world!
 
 
 ## Architectural Diagram
-![Architecture](https://github.com/yikai-Liu/ids-final-demo/blob/master/AWS.png)
+![Architecture](https://github.com/yikai-Liu/ids-final-demo/blob/master/AWS.jpg)
 
 
 ## How to Run the Game
@@ -30,12 +30,16 @@ Steps
 
 ## Game Logic 
 ### Game Login
+![Login](https://github.com/yikai-Liu/ids-final-demo/blob/master/login.png)
 
 ### Game Start Game
+![start game](https://github.com/yikai-Liu/ids-final-demo/blob/master/startGame.png)
 
 ### Game Join Room
+![join room](https://github.com/yikai-Liu/ids-final-demo/blob/master/joinRoom.png)
 
 ### Game Choose Group
+![Choose Group](https://github.com/yikai-Liu/ids-final-demo/blob/master/waitingRoom.png)
 
 ### Game Assign Units
 
