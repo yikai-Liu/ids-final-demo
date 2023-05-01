@@ -6,13 +6,13 @@ This project is for duke ids final demo of our game project hosted in AWS-ECR
 ## How to Run the Game
 1. Start up the server in the docker
 
-docker pull public.ecr.aws/r9c5u1t7/finalproj
+`docker pull public.ecr.aws/r9c5u1t7/finalproj`
 
-docker run -d --name citest-651 -p 1651:1651 -p 4321:4321 -t public.ecr.aws/r9c5u1t7/finalproj ./gradlew run-server
+`docker run -d --name citest-651 -p 1651:1651 -p 4321:4321 -t public.ecr.aws/r9c5u1t7/finalproj ./gradlew run-server`
 
 2. git clone our project to your folder and run
 
-./gradlew run-client
+`./gradlew run-client`
 
 ## Game Server in AWS ECR
 Steps
