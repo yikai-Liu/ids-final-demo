@@ -7,6 +7,7 @@ Please enjoy the advanture in HP magic world!
 
 
 ## Architectural Diagram
+![Architecture](https://github.com/yikai-Liu/ids-final-demo/blob/master/AWS.png)
 
 
 ## How to Run the Game
